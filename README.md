@@ -26,7 +26,7 @@ prompts, into tool use, into regression tests.
 
 - 🤖 Iterating on LLM agents in production at Monest
 - 🌱 Going deeper on LLM evaluation and agent reliability
-- 📄 Résumé: **[leopianowski.github.io/resumewebsite](https://leopianowski.github.io/resumewebsite/)**
+- 📄 Resume: **[leopianowski.github.io/resumewebsite](https://leopianowski.github.io/resumewebsite/)**
   — Matrix-themed, generated with Python
 
 **Reach me**
